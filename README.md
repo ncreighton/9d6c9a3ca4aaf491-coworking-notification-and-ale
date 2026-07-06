@@ -1,0 +1,2 @@
+# 9d6c9a3ca4aaf491-coworking-notification-and-ale
+The coworking tool you'd build yourself — if you had the time.  Regular security updates. Works with WordPress multisite. Fully documented admin settings panel — no code required for configuration.  ## What's Included  - Coworking Notification And Alert Management — fully configured and ready to use - Clean admin settings panel with inline document
